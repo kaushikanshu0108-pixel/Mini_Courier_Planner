@@ -53,5 +53,4 @@ The route planner runs Dijkstra from each required location to build shortest-pa
 - All-pairs distances by repeated Dijkstra: O(V(V+E) log V)
 - Nearest Neighbor over a distance matrix: O(k^2)
 
-## Submission
-Include the full source folder, generated CSV/chart, screenshots of actual execution, and completed report. Do not submit invented benchmark results; run the benchmark on the submission machine and include the generated outputs.
+
